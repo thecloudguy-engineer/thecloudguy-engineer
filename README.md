@@ -42,6 +42,19 @@ I also started a twitter channel to slowly follow experts in this area and also 
 
 Link to twitter -> https://twitter.com/thecloudguyE
 
+## Day 2
+Finished the second tutorial in the backend master claass.
+- install docker, pull the postgres image and create a postgres instance
+- learnt about alpine version, sometimes you dont need ubuntu linux to run tasks. So you can use alpine to reduce the startup time 
+- started reading about designing data intensive applications book. I like the examples espcially twitter where load and performance are defined
+- looked into typical interview questions to get a grip on essential concepts (load balancers, caching, protocols like TCP/IP, HTTP, protobufs, gRPC, reverse proxy/ proxy, web servers, CI/CD, indexes, databases, SQL, NoSQL, content delivery networks
+
+## Day 3
+- went through the 3rd tutorial database migrations
+- finished reading about reliability, scalability and maintainability, the first section in the book. Concepts are exaplained very well
+- need to check some podcasts to listen while doing some light exeercises in the gym
+
+
 
 
 
