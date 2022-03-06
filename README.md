@@ -54,6 +54,19 @@ Finished the second tutorial in the backend master claass.
 - finished reading about reliability, scalability and maintainability, the first section in the book. Concepts are exaplained very well
 - need to check some podcasts to listen while doing some light exercises in the gym
 
+## Day 4
+- reading the second section about different data models based on the need - one to many relationships, many to many relationships, many to one relationships
+- document based data model, relational data model, graph based data model
+- declarative versus imperative benefits
+- schema on read versus schema on white (implicit versus explicit schema)
+
+## Day 5
+- finished the second section about data models from the book Designing data intensive applications
+- started reading the third section from the book about how databases store the data
+
+
+## Day 6
+- finished reading about a simple database storage - log file based, moved on to tree structures
 
 
 
