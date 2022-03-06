@@ -34,7 +34,7 @@ I started back end master class. I learnt how to design the schema and generate 
 
 Simple tutorial -> https://youtu.be/rx6CPDK_5mU
 
-I also went through the first video SSL/TSL playlist by tech school. Understood symmetric encryption and assymetric encryption. One idea was to build a small tool to see how encryption and decryption works in real time or show TLS hand shake in a browser web app. Perhaps a project down the line. 
+I also went through the first video SSL/TLS playlist by tech school. Understood symmetric encryption and assymetric encryption. One idea was to build a small tool to see how encryption and decryption works in real time or show TLS hand shake in a browser web app. Perhaps a project down the line. 
 
 Link to playlist -> https://youtube.com/playlist?list=PLy_6D98if3UINAba67DnhO4055OA6viSb
 
@@ -52,7 +52,7 @@ Finished the second tutorial in the backend master claass.
 ## Day 3
 - went through the 3rd tutorial database migrations
 - finished reading about reliability, scalability and maintainability, the first section in the book. Concepts are exaplained very well
-- need to check some podcasts to listen while doing some light exeercises in the gym
+- need to check some podcasts to listen while doing some light exercises in the gym
 
 
 
