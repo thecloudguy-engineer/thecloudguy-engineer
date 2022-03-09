@@ -67,6 +67,18 @@ Finished the second tutorial in the backend master claass.
 
 ## Day 6
 - finished reading about a simple database storage - log file based, moved on to tree structures
+- revised Google cloud architect prep test
+
+## Day 7 
+- still reading designing data intensive applications 
+- amazed by the explanations about online transactions processing and online analytics processing
+- understood both log structured and b tress 
+
+## Day 8
+- read about data warehouses, column oriented storage, bitmask and compression
+- awesome feeling to know how stuff works
+- need to understand about disk writes and reads, how its written onto HDDs, SSDs etc.
+
 
 
 
