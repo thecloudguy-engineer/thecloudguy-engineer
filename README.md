@@ -79,6 +79,11 @@ Finished the second tutorial in the backend master claass.
 - awesome feeling to know how stuff works
 - need to understand about disk writes and reads, how its written onto HDDs, SSDs etc.
 
+## Day 9 
+- started section 4 encoding and evolution in designing data intensive applications book
+- What's the need for JSON, XML, protobufts, thrift etc
+- did the two sum problem in golang
+
 
 
 
