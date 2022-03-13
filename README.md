@@ -84,6 +84,24 @@ Finished the second tutorial in the backend master claass.
 - What's the need for JSON, XML, protobufts, thrift etc
 - did the two sum problem in golang
 
+## Day 10
+- finished the encoding and evolution section. Now moving on to database replication 
+- in a simple database setup - single leader, multiple leaders and leaderless approach for replication
+- single leader is done
+- started exercism.org golang exercises
+
+## Day 11
+- reading multiple leader replication setup
+- completed 6 golang exercies 
+- learnt about strings package and functions like Trim, TrimSpaces, ReplaceAll etc. 
+
+## Day 12
+- reading leaderless replication setup
+- completed 3 go programs from exercism golang track
+
+
+
+
 
 
 
