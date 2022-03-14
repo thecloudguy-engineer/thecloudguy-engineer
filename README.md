@@ -99,6 +99,17 @@ Finished the second tutorial in the backend master claass.
 - reading leaderless replication setup
 - completed 3 go programs from exercism golang track
 
+## Day 13
+- slow day; did strings related go programs
+- quorum rules to select writes and reads in leaderless replication
+- super excited to read partitioning! Replication is already complicated in single server database systems. 
+Imagine multiple partitions for a database on different servers! uff 🤯
+
+## Day 14
+- finished replication chapter
+- did the go exercise need for speed in exercism and learnt about structs 
+
+
 
 
 
