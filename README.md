@@ -109,6 +109,11 @@ Imagine multiple partitions for a database on different servers! uff 🤯
 - finished replication chapter
 - did the go exercise need for speed in exercism and learnt about structs 
 
+## Day 15
+- started the partitioning chapter in intensive applications book
+- got stuck at booking up for beauty problem @exercism. Instructions to this exercise can be improved and never thought using time function is difficult
+- using yourbasic for last 1 week to get crisp idea of golang 
+
 
 
 
