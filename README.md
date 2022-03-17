@@ -114,6 +114,11 @@ Imagine multiple partitions for a database on different servers! uff 🤯
 - got stuck at booking up for beauty problem @exercism. Instructions to this exercise can be improved and never thought using time function is difficult
 - using yourbasic for last 1 week to get crisp idea of golang 
 
+## Day 16
+- finished the partitioning chapter in intensive applications book
+- birdwatcher exercise from exercism; basically write for loops and use slices
+- found build your own X https://github.com/danistefanovic/build-your-own-x; added some to pipeline
+
 
 
 
