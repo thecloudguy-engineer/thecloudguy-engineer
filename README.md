@@ -119,6 +119,10 @@ Imagine multiple partitions for a database on different servers! uff 🤯
 - birdwatcher exercise from exercism; basically write for loops and use slices
 - found build your own X https://github.com/danistefanovic/build-your-own-x; added some to pipeline
 
+## Day 17
+- finished lasagna master exercies. Learn how to write functions and pointers
+- nothing much, doing my day job and getting ready for weekend for some side projects
+
 
 
 
