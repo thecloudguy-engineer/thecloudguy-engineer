@@ -123,6 +123,10 @@ Imagine multiple partitions for a database on different servers! uff 🤯
 - finished lasagna master exercies. Learn how to write functions and pointers
 - nothing much, doing my day job and getting ready for weekend for some side projects
 
+## Day 18
+- did 2 exerices in exercism learning float64 and map concepts 
+- found https://gophercises.com/ and added to my learning list
+
 
 
 
