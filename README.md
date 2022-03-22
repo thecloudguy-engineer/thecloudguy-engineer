@@ -127,6 +127,18 @@ Imagine multiple partitions for a database on different servers! uff 🤯
 - did 2 exerices in exercism learning float64 and map concepts 
 - found https://gophercises.com/ and added to my learning list
 
+## Day 19
+– learnt about range and type through chessboard exercise @exercism.io
+
+## Day 20
+– learnt about runes through logs.logs.logs exercises @exercism.io
+
+## Day 21
+– Now that I hit 20 days and got used to writing code, I will commit to 3 exercises per day
+– finished 3 exercies covering pointers, methods, interfaces and errors @exercism.io
+
+
+
 
 
 
