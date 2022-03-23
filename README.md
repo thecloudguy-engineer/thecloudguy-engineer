@@ -137,6 +137,11 @@ Imagine multiple partitions for a database on different servers! uff 🤯
 – Now that I hit 20 days and got used to writing code, I will commit to 3 exercises per day
 – finished 3 exercies covering pointers, methods, interfaces and errors @exercism.io
 
+## Day 22
+– I finished 5 exercises @exercism_io today
+– Errors, Interfaces, Zero Values, Type conversions and assertions concepts completed
+– Aiming to complete @golang track by April 
+
 
 
 
