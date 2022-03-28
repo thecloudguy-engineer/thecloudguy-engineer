@@ -142,6 +142,27 @@ Imagine multiple partitions for a database on different servers! uff 🤯
 – Errors, Interfaces, Zero Values, Type conversions and assertions concepts completed
 – Aiming to complete @golang track by April 
 
+## Day 23
+– Finished 3 exercises @exercism_io scrabble score, isogram and difference of squares. love using the strings package 😍
+– Made a list of resources I came across and detailed my journey Link - https://tinyurl.com/thecloudguy
+
+## Day 24
+– finished grains (number of grains of a chess square) and luhn(valid credit card number check) exercies @exercism.io
+– went through Ethereum dev with Go book to run a program that gives you balance for an address
+
+## Day 25
+- I did the @freecodecamp tutorial to build a simple webserver to take input and print the given input
+
+## Day 26
+– Built a webserver that takes in Ethereum address and provides balance on the webpage
+– Took a while debugging some minor mistakes such as forgetting slash when defining routes :( 
+
+
+## Day 27
+– I followed the @freecodecamp tutorial to build a web server that has Create, Read, Update, Delete capabilities 
+- Read BlackHatGo book from Oreilly to get some understanding of channels and went through simple port scanning program
+- still need to get good grasp on goroutines and channels
+
 
 
 
