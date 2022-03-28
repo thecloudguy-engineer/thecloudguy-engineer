@@ -151,7 +151,8 @@ Imagine multiple partitions for a database on different servers! uff 🤯
 - went through Ethereum dev with Go book to run a program that gives you balance for an address
 
 ## Day 25
-- I did the @freecodecamp tutorial to build a simple webserver to take input and print the given input
+Recently @freeCodeCamp posted Akhil Sharma tutorial 11 projects in Go
+- I built a simple web server to take input and print the given input https://youtu.be/jFfo23yIWac
 
 ## Day 26
 - Built a webserver that takes in Ethereum address and provides balance on the webpage
