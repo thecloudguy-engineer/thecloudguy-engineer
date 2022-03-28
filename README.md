@@ -160,7 +160,7 @@ Recently @freeCodeCamp posted Akhil Sharma tutorial 11 projects in Go
 
 
 ## Day 27
-- I followed the @freecodecamp tutorial to build a web server that has Create, Read, Update, Delete capabilities 
+- I followed the @freecodecamp tutorial https://youtu.be/jFfo23yIWac to build a web server that has Create, Read, Update, Delete capabilities 
 - Read BlackHatGo book from Oreilly to get some understanding of channels and went through simple port scanning program
 - still need to get good grasp on goroutines and channels
 
