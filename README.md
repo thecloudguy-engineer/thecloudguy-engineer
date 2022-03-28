@@ -147,19 +147,19 @@ Imagine multiple partitions for a database on different servers! uff 🤯
 – Made a list of resources I came across and detailed my journey Link - https://tinyurl.com/thecloudguy
 
 ## Day 24
-– finished grains (number of grains of a chess square) and luhn(valid credit card number check) exercies @exercism.io
-– went through Ethereum dev with Go book to run a program that gives you balance for an address
+- finished grains (number of grains of a chess square) and luhn(valid credit card number check) exercies @exercism.io
+- went through Ethereum dev with Go book to run a program that gives you balance for an address
 
 ## Day 25
 - I did the @freecodecamp tutorial to build a simple webserver to take input and print the given input
 
 ## Day 26
-– Built a webserver that takes in Ethereum address and provides balance on the webpage
-– Took a while debugging some minor mistakes such as forgetting slash when defining routes :( 
+- Built a webserver that takes in Ethereum address and provides balance on the webpage
+- Took a while debugging some minor mistakes such as forgetting slash when defining routes :( 
 
 
 ## Day 27
-– I followed the @freecodecamp tutorial to build a web server that has Create, Read, Update, Delete capabilities 
+- I followed the @freecodecamp tutorial to build a web server that has Create, Read, Update, Delete capabilities 
 - Read BlackHatGo book from Oreilly to get some understanding of channels and went through simple port scanning program
 - still need to get good grasp on goroutines and channels
 
