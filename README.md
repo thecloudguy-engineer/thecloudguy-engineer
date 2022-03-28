@@ -156,12 +156,14 @@ Recently @freeCodeCamp posted Akhil Sharma tutorial 11 projects in Go
 
 ## Day 26
 - Built a webserver that takes in Ethereum address and provides balance on the webpage
+- My github repository https://github.com/thecloudguy-engineer/go-simple-webserver
 - Took a while debugging some minor mistakes such as forgetting slash when defining routes :( 
 
 
 ## Day 27
 - I followed the @freecodecamp tutorial https://youtu.be/jFfo23yIWac to build a web server that has Create, Read, Update, Delete capabilities 
 - Read BlackHatGo book from Oreilly to get some understanding of channels and went through simple port scanning program
+- My github repository https://github.com/thecloudguy-engineer/go-crud-movies
 - still need to get good grasp on goroutines and channels
 
 
