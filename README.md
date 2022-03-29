@@ -1,8 +1,8 @@
 # About me 
 - 👋 Hi, I’m @thecloudguy-engineer
-- 👀 I’m interested in cloud technologies, back-end tech to build scalable products that improves our lives
+- 👀 I’m interested in cloud technologies, back-end tech to build scalable products that improves our lives. I am building my proficiency in go language
 - 🌱 I’m currently learning about google cloud platform and fundamentals of building scalable products
-- 💞️ I’m looking to collaborate on writing guides on learning GCP, learn about building things
+- 💞️ I’m looking to collaborate on writing guides on learning Go, architecture, GCP, blockchain
 - 📫 How to reach me - Comment here by doing a request :)
 
 
