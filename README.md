@@ -166,6 +166,11 @@ Recently @freeCodeCamp posted Akhil Sharma tutorial 11 projects in Go
 - My github repository https://github.com/thecloudguy-engineer/go-crud-movies
 - still need to get good grasp on goroutines and channels
 
+## Day 28
+- Working on the thrid project from @freecodecamp tutorial https://youtu.be/jFfo23yIWac 
+- Finished exercism program using goroutines and sync package
+- I read Mastering API architecture first chapter today morning
+
 
 
 
