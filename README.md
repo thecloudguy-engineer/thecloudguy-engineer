@@ -171,6 +171,13 @@ Recently @freeCodeCamp posted Akhil Sharma tutorial 11 projects in Go
 - Finished exercism program using goroutines and sync package
 - I read Mastering API architecture first chapter today morning
 
+## Day 29
+- Completed 3rd project https://github.com/thecloudguy-engineer/go-book
+- Build a Create, Read, Update, Delete functions on a MySQL database from Go code
+- Learnt about GORM, running MySQL, connecting MySQL via GORM
+
+
+
 
 
 
