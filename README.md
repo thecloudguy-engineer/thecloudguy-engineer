@@ -177,9 +177,9 @@ Recently @freeCodeCamp posted Akhil Sharma tutorial 11 projects in Go
 - Learnt about GORM, running MySQL, connecting MySQL via GORM
 
 ## Day 30
-– Did the tournament exercise from @exercism
-– Lot of debugging, brushed up skills around maps, slices, sorting, strings, and Fprintf
-– Read mastering api book in the morning 
+- Did the tournament exercise from @exercism
+- Lot of debugging, brushed up skills around maps, slices, sorting, strings, and Fprintf
+- Read mastering api book in the morning 
 
 
 
