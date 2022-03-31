@@ -176,6 +176,12 @@ Recently @freeCodeCamp posted Akhil Sharma tutorial 11 projects in Go
 - Build a Create, Read, Update, Delete functions on a MySQL database from Go code
 - Learnt about GORM, running MySQL, connecting MySQL via GORM
 
+## Day 30
+– Did the tournament exercise from @exercism
+– Lot of debugging, brushed up skills around maps, slices, sorting, strings, and Fprintf
+– Read mastering api book in the morning 
+
+
 
 
 
