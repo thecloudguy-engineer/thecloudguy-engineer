@@ -181,6 +181,18 @@ Recently @freeCodeCamp posted Akhil Sharma tutorial 11 projects in Go
 - Lot of debugging, brushed up skills around maps, slices, sorting, strings, and Fprintf
 - Read mastering api book in the morning 
 
+## Day 31
+- I did 3 projects where I created simple webserver to Create, Read, Update, and Delete using mux and gorm 
+- So I decided to consume twitter API and unmarshal the JSON to get the tweet
+- Took sometime to figure out authorization to be sent as request header and get the response
+
+## Day 32
+– Decided to build a simple backend to query tweets from a list and let user to see the tweets by date
+- figured out how to use time package to conert tweet time into local time 
+– did a simple leap year check exercise on @exercism.io
+
+
+
 
 
 
